@@ -13,12 +13,7 @@ Currently learning to integrate machine learning models into web applications to
 ## 💻 Tech Stack
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-## 📊 GitHub Stats
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnenabore&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnenabore&layout=compact&theme=radical)  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
 
 ## 🌐 Socials
 <div align="center">
@@ -38,8 +33,3 @@ Currently learning to integrate machine learning models into web applications to
 ---
 
 ⭐️ From [John Enabore](https://github.com/johnenabore)
-
-<!-- Profile views counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/johnenabore/count.svg" alt="Visitor Count" />
-</div>
